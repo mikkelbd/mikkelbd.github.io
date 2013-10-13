@@ -38,6 +38,10 @@ a {
   text-decoration:none;
 }
 
+.links {
+  display: block;
+}
+ 
 a small {
   font-size:11px;
   color:#777;
